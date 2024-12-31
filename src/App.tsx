@@ -54,7 +54,7 @@ export default function App() {  // Added default export
           <div className="flex items-center justify-center gap-3 mb-6">
             <GraduationCap className="h-12 w-12 text-blue-600" />
             <h1 className="text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
-              Student Score Dashboard
+              SVCE - Student Score Dashboard
             </h1>
           </div>
           
